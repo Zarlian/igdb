@@ -1,0 +1,38 @@
+{
+  "en": {
+    "title" : "Create account",
+    "name": "Your name",
+    "namePlaceHolder": "First and last name",
+    "mail": "Email",
+    "password": "Password",
+    "passwordPlaceHolder": "at least 8 characters",
+    "passwordExtra": "Passwords must be at least 8 characters. ",
+    "confirmPassword": "Re-enter password",
+    "submit": "Create your IGDb account",
+    "login": "Already have an account? Sign in"
+  },
+  "fr": {
+    "title" : "Créer un compte",
+    "name": "Votre nom",
+    "namePlaceHolder": "Prénom et nom",
+    "mail": "Email",
+    "password": "Mot de passe",
+    "passwordPlaceHolder": "au moins 8 caractères",
+    "passwordExtra": "Les mots de passe doivent comporter au moins 8 caractères. ",
+    "confirmPassword": "Confirmez le mot de passe",
+    "submit": "Créer votre compte IGDb",
+    "login": "Déjà un compte? Connectez-vous"
+  },
+  "nl": {
+    "title" : "Maak een account aan",
+    "name": "Uw naam",
+    "namePlaceHolder": "Voornaam en achternaam",
+    "mail": "Email",
+    "password": "Wachtwoord",
+    "passwordPlaceHolder": "minstens 8 tekens",
+    "passwordExtra": "Wachtwoorden moeten minstens 8 tekens bevatten. ",
+    "confirmPassword": "Bevestig wachtwoord",
+    "submit": "Maak uw IGDb-account aan",
+    "login": "Heeft u al een account? Log in"
+  }
+}

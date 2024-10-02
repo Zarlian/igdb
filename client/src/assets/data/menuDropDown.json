@@ -1,0 +1,23 @@
+{
+  "en": {
+    "calendar": "Release Calendar",
+    "top": "Top 50",
+    "new": "New Releases",
+    "popular": "Most popular",
+    "browse" : "Browse by Genre"
+  },
+  "nl" : {
+    "calendar": "Release Kalender",
+    "top": "Top 50",
+    "new": "Nieuwe Releases",
+    "popular": "Meest populair",
+    "browse" : "Zoeken op Genre"
+  },
+    "fr" : {
+        "calendar": "Calendrier des sorties",
+        "top": "Top 50",
+        "new": "Nouvelles sorties",
+        "popular": "Les plus populaires",
+        "browse" : "Parcourir par genre"
+    }
+}

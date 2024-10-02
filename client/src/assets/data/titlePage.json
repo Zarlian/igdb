@@ -1,0 +1,17 @@
+{
+  "en": {
+    "developer": "Developed by",
+    "platform": "Playable on",
+    "add_to_gamelist": "Add togame list"
+  },
+  "nl": {
+    "developer": "Ontwikkeld door",
+    "platform": "Speelbaar op",
+    "add_to_gamelist": "Toevoegen aan game lijst"
+  },
+  "fr": {
+    "developer": "Développé par",
+    "platform": "Jouable sur",
+    "add_to_gamelist": "Ajouter à la liste de jeux"
+  }
+}

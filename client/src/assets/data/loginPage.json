@@ -1,0 +1,12 @@
+{
+  "en": {
+    "title" : "Sign in",
+    "mail" : "Email",
+    "password" : "Password",
+    "submit" : "Sign in",
+    "forgot" : "Forgot your password?",
+    "new" : "New to IGDb?",
+    "create" : "Create your IGDb account"
+
+  }
+}

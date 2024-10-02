@@ -1,0 +1,38 @@
+{
+  "en": {
+    "menu": "Menu",
+    "login": "Login",
+    "gameList": "GameList",
+    "filters": {
+      "all": "All",
+      "titles": "Titles",
+      "developers": "Developers",
+      "keyWords": "Keywords",
+      "advanced": "Advanced Search"
+    }
+  },
+  "nl": {
+    "menu": "Menu",
+    "login": "Inloggen",
+    "gameList": "Gamelijst",
+    "filters": {
+      "all": "Alles",
+      "titles": "Titels",
+      "developers": "Ontwikkelaars",
+      "keyWords": "Sleutelwoorden",
+        "advanced": "Geavanceerd zoeken"
+    }
+  },
+  "fr": {
+    "menu": "Menu",
+    "login": "Connexion",
+    "gameList": "Liste de jeux",
+    "filters": {
+      "all": "Tout",
+      "titles": "Titres",
+      "developers": "Développeurs",
+      "keyWords": "Mots-clés",
+      "advanced": "Recherche avancée"
+    }
+  }
+}

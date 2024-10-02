@@ -1,0 +1,32 @@
+{
+  "en": {
+    "title": "What to Play - IGDb",
+    "nav": {
+      "guide": "PLAY GUIDE",
+      "favorites": "FAN FAVORITES",
+      "top": "TOP PICKS",
+      "watchlist": "FROM YOUR GAMELIST",
+      "popular": "MOST POPULAR"
+    }
+  },
+  "nl": {
+    "title": "Wat te spelen - IGDb",
+    "nav": {
+      "guide": "SPEELGIDS",
+      "favorites": "FAN FAVORIETEN",
+      "top": "TOP KEUZES",
+      "watchlist": "VAN JE SPEELLIJST",
+      "popular": "MEEST POPULAIR"
+    }
+  },
+  "fr": {
+    "title": "Que jouer - IGDb",
+    "nav": {
+      "guide": "GUIDE DE JEU",
+      "favorites": "FAVORIS DES FANS",
+      "top": "MEILLEURS CHOIX",
+      "watchlist": "DE VOTRE LISTE DE SUIVI",
+      "popular": "LES PLUS POPULAIRES"
+    }
+  }
+}

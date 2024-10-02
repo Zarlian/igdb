@@ -1,0 +1,26 @@
+{
+  "en" : {
+    "titles" : {
+      "top" : "Top 10 on IGDb this week",
+      "favorite" : "This week's favorite Games",
+      "featured" : "Featured",
+      "list" : "From your game list"
+    }
+  },
+  "nl" : {
+    "titles" : {
+      "top" : "Top 10 op IGDb deze week",
+      "favorite" : "Deze week's favoriete Games",
+      "featured" : "Uitgelicht",
+      "list" : "Van je game lijst"
+    }
+  },
+    "fr" : {
+        "titles" : {
+        "top" : "Top 10 sur IGDb cette semaine",
+        "favorite" : "Les jeux favoris de cette semaine",
+        "featured" : "En vedette",
+        "list" : "De votre liste de jeux"
+        }
+    }
+}
