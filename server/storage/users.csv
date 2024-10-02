@@ -1,0 +1,5 @@
+name;email;password;role
+John Doe;johndoe@example.com;password123;admin
+Jane Smith;janesmith@example.com;securepassword;user
+Bob Johnson;bobjohnson@example.com;pass1234;user
+Alice Brown;alicebrown@example.com;abc123;admin
